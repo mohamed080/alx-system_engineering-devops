@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 alias ls="rm *"
+=======
+echo "hello $USER"
+>>>>>>> 02e7b9061273d47aeac376b96cdbc36cafef8d91
